@@ -1,2 +1,2 @@
 ## Jumbo
-![pic](pic/Jumbo.png)
+![pic](Egone/blob/main/pic/Jumbo.png)
