@@ -22,7 +22,7 @@ Little Bot
 
 ![Egone](/pic/Triceratops.jpg)
 
-![Egone](/pic/Triceratops.giv)
+![Egone](/pic/Triceratops.gif)
 
 
 ---
