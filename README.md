@@ -17,6 +17,14 @@ Little Bot
 ![Egone](/pic/IMG_9603.png)
 
 
+# Triceratops
+Little Bot
+
+![Egone](/pic/Triceratops.jpg)
+
+![Egone](/pic/Triceratops.giv)
+
+
 ---
 
 <div style="position:absolute; left:2cm; ">   
