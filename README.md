@@ -20,7 +20,7 @@ Little Bot
 # Triceratops
 Little Bot
 
-![Egone](/pic/Triceratops.jpg)
+![Egone](/pic/Triceratops.png)
 
 ![Egone](/pic/Triceratops.gif)
 
