@@ -12,13 +12,13 @@
 
 
 # Egone
-Little Bot
+Little Egone Bot
 
 ![Egone](/pic/IMG_9603.png)
 
 
 # Triceratops
-Little Bot
+Little Triceratops Bot
 
 ![Egone](/pic/Triceratops.png)
 
