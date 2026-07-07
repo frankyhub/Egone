@@ -22,8 +22,10 @@ Little Triceratops Bot
 
 ![Egone](/pic/Triceratops.png)
 
-![Egone](/pic/Triceratops.gif)
+<div align="center">
 
+![Egone](/pic/Triceratops.gif)
+</div>
 
 # Brachiosaurus
 Little Brachiosaurus Bot
@@ -36,8 +38,10 @@ Little Jumbo Bot
 
 ![Egone](/pic/Jumbo.png)
 
-![Egone](/pic/Jumbo.gif)
+<div align="center">
 
+![Egone](/pic/Jumbo.gif)
+</div>
 
 ---
 
