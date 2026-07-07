@@ -31,6 +31,14 @@ Little Brachiosaurus Bot
 ![Egone](/pic/Brachiosaurus.png)
 
 
+# Jumbo
+Little Jumbo Bot
+
+![Egone](/pic/Jumbo.png)
+
+![Egone](/pic/Jumbo.gif)
+
+
 ---
 
 <div style="position:absolute; left:2cm; ">   
