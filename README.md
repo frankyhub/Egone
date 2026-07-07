@@ -22,7 +22,7 @@ Little Triceratops Bot
 
 ![Egone](/pic/Triceratops.png)
 
-<div style="position:absolute; left:2cm; "> 
+<div align="center">
 
 ![Egone](/pic/Triceratops.gif)
 
@@ -39,7 +39,7 @@ Little Jumbo Bot
 
 ![Egone](/pic/Jumbo.png)
 
-<div style="position:absolute; left:2cm; "> 
+<div align="center">
 
 ![Egone](/pic/Jumbo.gif)
 
