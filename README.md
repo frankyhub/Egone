@@ -10,7 +10,7 @@
 </div>
 
 
-
+<div align="center">
 # Egone
 Little Egone Bot
 
@@ -24,20 +24,20 @@ Little Triceratops Bot
 
 ![Egone](/pic/Triceratops.gif)
 
-</div>
 
-<div align="center">
+
+
 
 # Jumbo
 Little Jumbo Bot
 
 ![Egone](/pic/Jumbo.png)
 
-<div align="center">
+
 
 ![Egone](/pic/Jumbo.gif)
 
-</div>
+
 
 
 
@@ -52,7 +52,7 @@ Little Alligator Bot
 ![Egone](/pic/Alligator.png)
 
 
-
+</div>
 
 ---
 
