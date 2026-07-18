@@ -1,3 +1,3 @@
-# xtool Trceratops 
+# xtool Triceratops 
 
 ![pic](/pic/xtool.png)
