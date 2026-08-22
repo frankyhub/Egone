@@ -55,7 +55,7 @@ Little Ponny Bot
 ![Egone](/pic/Ponny.png)
 
 # Egone 3D
-Triceratops mit 3D-Druck Füßen
+Triceratops mit 3D-Druck Teile.
 
 ![Egone](/pic/egone3D.png)
 
