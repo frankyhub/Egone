@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Vorderbein.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.027195"
+     inkscape:cx="152.35666"
+     inkscape:cy="762.75683"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="circle64-6-8"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.05mm"
+       d="m -7.3049805,-215.03132 v -2.67064 l 4.0896729,-3.49333 0,-67.49665 c 0,-4.53689 -3.3446444,-8.18968 -7.4992834,-8.18968 -4.15464,0 -7.731312,2.87868 -7.731312,7.41557 v 71.51553 0.15503 l 3.322795,0.016 v 2.63188 z m -3.4096105,-44.86083 c -1.692119,-5e-5 -3.063839,-1.37177 -3.063896,-3.06389 5.1e-5,-1.69212 1.371774,-3.06385 3.063896,-3.0639 1.6921221,5e-5 3.0638438,1.37178 3.0638952,3.0639 -5.69e-5,1.69212 -1.371777,3.06384 -3.0638952,3.06389 z m 1.4231685,-26.91515 h -2.9998165 v -5.01571 h 2.9998165 z"
+       transform="scale(-1)"
+       sodipodi:nodetypes="cccsssccccccccccccccc" />
+  </g>
+</svg>
