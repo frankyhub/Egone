@@ -7,6 +7,6 @@ import("Vorderbein.svg");
         }
  }
 
-translate(v = [-6.8, -12.8, -7.96]) {
+translate(v = [-6.8, -12.8, -0.0]) {
 cube(size = [3,5,11]);
  }
