@@ -54,6 +54,11 @@ Little Ponny Bot
 
 ![Egone](/pic/Ponny.png)
 
+# Egone 3D
+Egone mit 3D-Druck Füßen
+
+![Egone](/pic/egone3D.png)
+
 
 </div>
 
