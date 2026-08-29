@@ -10,5 +10,5 @@ import("Exzenter.svg");
  }
 
 translate(v = [5.9, -2.7, 0]) {
-cube(size = [4.9,3,15]);
+cube(size = [4.9,3,13]);
  }
