@@ -11,7 +11,7 @@
 <img src="pic/IMG_9603.png" width="500"> 
 <br> <br>
 
-</div>  
+
 
 
 # Triceratops
